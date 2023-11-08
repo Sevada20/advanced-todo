@@ -1,0 +1,5 @@
+.dataContainer {
+  display: flex;
+  justify-content: flex-start;
+  gap: 60px;
+}
